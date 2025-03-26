@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6038a2f5-51cb-47fa-869d-7243f0818ad1)# 🚀 **Space Wars**  
+# 🚀 **Space Wars**  
 
 A **classic space shooter game** where you control a spaceship, dodge asteroids, and destroy enemy ships to survive! Built with Python and Pygame, this game offers **fast-paced action and retro arcade-style gameplay**.  
 
